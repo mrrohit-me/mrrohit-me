@@ -2,7 +2,7 @@
 
 - 💪 I’m currently **intern** and open to work on anything practical & interesting.
 
-- 💻 I’m learning **Core PHP, python**. (Hope Next Native is a thing in future) 
+- 💻 I’m learning **Core PHP, python, React, React Native**. (Hope Next Native is a thing in future) 
 
 - 😁 I've fun working on -
 
