@@ -12,7 +12,7 @@
 
 ![](https://github.com/ro-hit04/r2s/blob/master/Mypic.jpg)
 
-- 📫 Reach me at **r2s.zingalbox.com** or -
+- 📫 Reach me at **rst6471@gmail.com** or -
 
 <p align="center">
 <a href="https://telegram.me/rohit patil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Rohit patil" height="30" width="30" /></a>
